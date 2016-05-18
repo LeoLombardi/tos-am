@@ -1,7 +1,8 @@
 ﻿[
-  "https://api.github.com/repos/MizukiBelhi/ExtendedUI",
-  "https://api.github.com/repos/Lemon-King/ToS-LKChat",
-  "https://api.github.com/repos/fiote/treeofsavior-addons",
-  "https://api.github.com/repos/Excrulon/Tree-of-Savior-Lua-Mods",
-  "https://api.github.com/repos/WatchGintama/TOS-Bandicam_removewatermark"
+  { "url": "https://api.github.com/repos/MizukiBelhi/ExtendedUI" },
+  { "url": "https://api.github.com/repos/Lemon-King/ToS-LKChat" },
+  { "url": "https://api.github.com/repos/fiote/treeofsavior-addons" },
+  { "url": "https://api.github.com/repos/Excrulon/Tree-of-Savior-Lua-Mods" },
+  { "url": "https://api.github.com/repos/WatchGintama/TOS-Bandicam_removewatermark" },
+  { "url": "https://api.github.com/repos/Xanaxiel/ToS-Addons" }
 ]
